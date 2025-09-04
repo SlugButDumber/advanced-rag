@@ -6,3 +6,4 @@ This is an implementation of a RAG system with a few improvements:
 Collaborators:
   1. Arhat Amitabh, Student at Dept. of Electrical Engineering, IIT Kharagpur
   2. Salil Lokhande, Student at Dept. of Mechanical Engineering, IIT Kharagpur
+
